@@ -1,0 +1,3 @@
+HAFTA 1 - ODEV
+
+Hedef 1- https://busenurk.github.io/rstudio/_book/uygulamalar.html sayfasındaki üç uygulamayı da inceleyip, üçünü de gerçekleştirin. R kurulumunuzun tam olup olmadığını belirleyin. Ödev Dosyanız: H1O1_numaranız.zip şeklinde isimlendirilmiş olsun. Zip dosyasının içeriği "H1O1_numaranız" (klasörü) altında, numaranız.pdf (uygulama elde edilirken elde edilen R çıktıları command window plot vb. raporu tek dosya) numaranız.R ve Rproj (tüm uygulamaları kapsayan R kodu tek dosyada) şeklinde olmalıdır.
